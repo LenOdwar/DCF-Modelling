@@ -80,15 +80,15 @@ Goal Seek results for custom valuation parameters
 
 Presentation-ready charts
 
-https://github.com/LenOdwar/DCF-Modelling/blob/1c6d5610e3e5c6360e300a932f1b66c5a7025c09/Charts/Revenues_and_EBITDA_Charts.png
+![Revenues & EBITDA](https://github.com/LenOdwar/DCF-Modelling/blob/1c6d5610e3e5c6360e300a932f1b66c5a7025c09/Charts/Revenues_and_EBITDA_Charts.png)
 
-https://github.com/LenOdwar/DCF-Modelling/blob/1c6d5610e3e5c6360e300a932f1b66c5a7025c09/Charts/Cashflows_Charts.png
+![Cashflows](https://github.com/LenOdwar/DCF-Modelling/blob/1c6d5610e3e5c6360e300a932f1b66c5a7025c09/Charts/Cashflows_Charts.png)
 
-https://github.com/LenOdwar/DCF-Modelling/blob/1c6d5610e3e5c6360e300a932f1b66c5a7025c09/Charts/EBITDA_Bridge_Charts.png
+![EBITDA Bridge](https://github.com/LenOdwar/DCF-Modelling/blob/1c6d5610e3e5c6360e300a932f1b66c5a7025c09/Charts/EBITDA_Bridge_Charts.png)
 
-https://github.com/LenOdwar/DCF-Modelling/blob/1c6d5610e3e5c6360e300a932f1b66c5a7025c09/Charts/Working_Capital_Charts.png
+![Working Capital](https://github.com/LenOdwar/DCF-Modelling/blob/1c6d5610e3e5c6360e300a932f1b66c5a7025c09/Charts/Working_Capital_Charts.png)
 
-https://github.com/LenOdwar/DCF-Modelling/blob/1c6d5610e3e5c6360e300a932f1b66c5a7025c09/Charts/DCF_Results_Charts.png
+![DCF Results](https://github.com/LenOdwar/DCF-Modelling/blob/1c6d5610e3e5c6360e300a932f1b66c5a7025c09/Charts/DCF_Results_Charts.png)
 
 🧩 Applications
 
