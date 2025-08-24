@@ -39,11 +39,11 @@ DCF-Valuation-Model/
 
 │
 
+├── /charts/ # Valuation charts and visual outputs
+
 ├── DCF_Model.xlsx # Main Excel valuation model
 
-├── README.md # Documentation
-
-└── /charts/ # Valuation charts and visual outputs
+└── README.md # Documentation
 
 ---
 
