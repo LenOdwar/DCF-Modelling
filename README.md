@@ -36,3 +36,19 @@ The model includes the following key steps:
 
 ## 📂 File Structure  
 
+
+---
+
+## 📈 Requirements  
+
+- Microsoft Excel (2016 or later recommended)  
+- Basic knowledge of corporate finance, valuation, and Excel formulas  
+
+---
+
+## 🚀 How to Use  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/DCF-Valuation-Model.git
+
