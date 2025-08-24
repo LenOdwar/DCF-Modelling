@@ -1,6 +1,6 @@
 # 📊 Discounted Cash Flow (DCF) Valuation Model  
 
-This repository contains a **fully functional Excel-based Discounted Cash Flow (DCF) valuation model** built as part of a financial modeling course project. The model is designed to value a hypothetical company based on structured assumptions and financial projections.  
+This repository contains a **fully functional Excel-based Discounted Cash Flow (DCF) valuation model** built as part of a financial modelling course project. The model is designed to value a hypothetical company based on structured assumptions and financial projections.  
 
 ---
 
@@ -79,6 +79,16 @@ Sensitivity tables for WACC and g
 Goal Seek results for custom valuation parameters
 
 Presentation-ready charts
+
+https://github.com/LenOdwar/DCF-Modelling/blob/1c6d5610e3e5c6360e300a932f1b66c5a7025c09/Charts/Revenues_and_EBITDA_Charts.png
+
+https://github.com/LenOdwar/DCF-Modelling/blob/1c6d5610e3e5c6360e300a932f1b66c5a7025c09/Charts/Cashflows_Charts.png
+
+https://github.com/LenOdwar/DCF-Modelling/blob/1c6d5610e3e5c6360e300a932f1b66c5a7025c09/Charts/EBITDA_Bridge_Charts.png
+
+https://github.com/LenOdwar/DCF-Modelling/blob/1c6d5610e3e5c6360e300a932f1b66c5a7025c09/Charts/Working_Capital_Charts.png
+
+https://github.com/LenOdwar/DCF-Modelling/blob/1c6d5610e3e5c6360e300a932f1b66c5a7025c09/Charts/DCF_Results_Charts.png
 
 🧩 Applications
 
