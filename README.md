@@ -35,7 +35,11 @@ The model includes the following key steps:
 ---
 
 ## 📂 File Structure  
-
+DCF-Valuation-Model/
+│
+├── DCF_Model.xlsx # Main Excel valuation model
+├── README.md # Documentation
+└── /charts/ # Valuation charts and visual outputs
 
 ---
 
@@ -45,10 +49,58 @@ The model includes the following key steps:
 - Basic knowledge of corporate finance, valuation, and Excel formulas  
 
 ---
-
 ## 🚀 How to Use  
 
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/DCF-Valuation-Model.git
+Open the DCF_Model.xlsx file in Excel.
+
+Adjust the Assumptions sheet to your desired inputs.
+
+Review the dynamically updated financial statements, UFCF, and valuation results.
+
+Use the Sensitivity & Goal Seek tabs to test different scenarios.
+
+📊 Outputs
+
+Forecasted Financial Statements (P&L, Balance Sheet, Cash Flow)
+
+Free Cash Flow (UFCF) projections
+
+Enterprise Value and Equity Value calculations
+
+Sensitivity tables for WACC and g
+
+Goal Seek results for custom valuation parameters
+
+Presentation-ready charts
+
+🧩 Applications
+
+Valuing private or public companies
+
+Investment analysis and corporate finance projects
+
+Academic and professional financial modeling practice
+
+📜 License
+
+This project is licensed under the MIT License
+ – feel free to use, modify, and share.
+
+👤 Author
+
+Len Odwar
+
+💼 Finance & Credit Analysis Professional
+🌍 Kenya
+
+⭐ Contributing
+
+Contributions are welcome! If you’d like to enhance the model (e.g., add Monte Carlo simulations, comparables analysis, or dashboards), please fork the repo and submit a pull request.
+
+🙌 Acknowledgments
+
+Special thanks to my Udemy course instructors and the global finance community for inspiring the development of this model.
 
