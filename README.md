@@ -36,9 +36,13 @@ The model includes the following key steps:
 
 ## 📂 File Structure  
 DCF-Valuation-Model/
+
 │
+
 ├── DCF_Model.xlsx # Main Excel valuation model
+
 ├── README.md # Documentation
+
 └── /charts/ # Valuation charts and visual outputs
 
 ---
